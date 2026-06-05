@@ -4,30 +4,43 @@ This repository contains my learning journey while following the Sigma Web Devel
 
 ## Topics Covered
 
-- HTML
-- CSS
-- JavaScript
-- Projects
+* HTML
+* CSS
+* JavaScript
+* React
+* Node.js
+* Express.js
+* MongoDB
+* Projects
 
 ## Progress
 
-- [ ] HTML
-- [ ] CSS
-- [ ] JavaScript
-- [ ] React
-- [ ] Backend
+* [x] HTML Basics
+* [ ] CSS
+* [ ] JavaScript
+* [ ] React
+* [ ] Backend Development
+* [ ] Database (MongoDB)
+* [ ] Full Stack Projects
+
+## Repository Structure
+
+HTML tutorials/
+
+CSS tutorials/
+
+JavaScript tutorials/
+
+React/
+
+Backend/
+
+Projects/
+
+## Goal
+
+To build a strong foundation in web development and become a full-stack developer through consistent learning and project building.
 
 ## Author
 
 Aryan
-
-
-
-# Heading
-## Subheading
-
-- Bullet 1
-- Bullet 2
-
-[ ] Not done
-[x] Done
